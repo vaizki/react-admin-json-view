@@ -1,10 +1,10 @@
 {
-  "name": "react-admin-json-view",
-  "version": "2.0.0",
+  "name": "@php-etl/react-admin-json-view",
+  "version": "2.0.1",
   "description": "JSON field and input for react-admin.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MrHertal/react-admin-json-view"
+    "url": "https://github.com/php-etl/react-admin-json-view"
   },
   "main": "build/index.js",
   "module": "build/index.es.js",
@@ -54,6 +54,6 @@
     "react-dom": "*"
   },
   "dependencies": {
-    "@microlink/react-json-view": "^1.22.2"
+    "react18-json-view": "^0.2.7"
   }
 }
